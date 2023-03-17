@@ -1,0 +1,34 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.page-content {
+  position: absolute;
+  top: 60px;
+  right: 0;
+  left: 80px;
+}
+.app-header {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.app-routes {
+}
+
+.app-footer {
+}
+
+.side-menu {
+}
+.dashboard {
+  text-align: center;
+  margin-left: 50px;
+}
