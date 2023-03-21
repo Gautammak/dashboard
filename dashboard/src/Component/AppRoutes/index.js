@@ -9,8 +9,9 @@ function AppRoutes() {
     <Routes>
       <Route path="/" element={<Dashboard />}></Route>
       <Route path="/inventory" element={<Inventory />}></Route>
-      <Route path="/Customer" element={<Customers />}></Route>
+
       <Route path="/Order" element={<Orders />}></Route>
+      <Route path="/Customer" element={<Customers />}></Route>
     </Routes>
   );
 }

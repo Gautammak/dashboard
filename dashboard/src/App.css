@@ -6,11 +6,7 @@
 }
 
 .page-content {
-  position: absolute;
-  top: 60px;
-  right: 0;
-  left: 80px;
-  margin-left: 70px;
+  padding-left: 12px;
 }
 .app-header {
   height: 50px;
